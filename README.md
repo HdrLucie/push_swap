@@ -1,6 +1,6 @@
 # push_swap
 
-Go to [french version]([github.com/HdrLucie/push_swap/#push_quoi-](https://github.com/HdrLucie/push_swap#push_quoi-))
+Go to [french version](https://github.com/HdrLucie/push_swap/blob/master/README.md#push_quoi-)
 
 ## push_what ?
 Push Swap is a project implemented in C language that involves sorting a set of X numbers using a limited set of instructions efficiently, with the fewest moves possible. This program uses two stacks (a and b) and a predefined list of instructions to perform the sorting.
